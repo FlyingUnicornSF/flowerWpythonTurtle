@@ -15,7 +15,7 @@ def flower_layer(angle, length):
     i = 0
     repeat = int(360 /angle)
     while i < repeat:
-        draw_triangle(flower2, length)
+        draw_triangle(length)
         turtle.right(angle)
         i = i + 1
 
