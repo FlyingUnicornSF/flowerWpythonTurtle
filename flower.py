@@ -46,5 +46,4 @@ def draw_flower(angle, layers):
 draw_flower(15, 3)
 
 
-
 window.exitonclick()
